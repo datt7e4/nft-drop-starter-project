@@ -1,0 +1,19 @@
+{
+    "name": "Roadster",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "j99YhyrpjeAZ3HWSH6nmkKBtP4dvfV6XNwkmJzp4kWq",
+          "share": 100
+        }
+      ]
+    }
+  }
